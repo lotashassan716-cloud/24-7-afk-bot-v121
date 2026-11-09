@@ -1,0 +1,29 @@
+{
+  "bots": [
+    {
+      "name": "Bot_1",
+      "role": "builder",
+      "startDelaySec": 0
+    },
+    {
+      "name": "Bot_2",
+      "role": "decorator",
+      "startDelaySec": 25
+    },
+    {
+      "name": "Bot_3",
+      "role": "engineer",
+      "startDelaySec": 50
+    },
+    {
+      "name": "Bot_4",
+      "role": "creator",
+      "startDelaySec": 75
+    },
+    {
+      "name": "Bot_5",
+      "role": "creator",
+      "startDelaySec": 100
+    }
+  ]
+}
